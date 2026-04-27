@@ -9,6 +9,9 @@ PLATFORM        : Google Colab (GPU: NVIDIA T4)
 LANGUAGE        : Python 3
 FRAMEWORK       : PyTorch + TorchVision
 
+🔗 LinkedIn: https://www.linkedin.com/in/fahad-ali-16271b2a2/
+💻 GitHub: https://github.com/fahadliaquat8-bot
+
 ================================================================================
 PROJECT OVERVIEW
 ================================================================================
